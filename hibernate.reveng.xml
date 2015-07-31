@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-schema="public" match-name="answers"/>
+  <table-filter match-schema="public" match-name="avto"/>
+  <table-filter match-schema="public" match-name="categories"/>
+  <table-filter match-schema="public" match-name="drivingschedule"/>
+  <table-filter match-schema="public" match-name="educationtypes"/>
+  <table-filter match-schema="public" match-name="groups"/>
+  <table-filter match-schema="public" match-name="questions"/>
+  <table-filter match-schema="public" match-name="schedules"/>
+  <table-filter match-schema="public" match-name="students"/>
+  <table-filter match-schema="public" match-name="subjects"/>
+  <table-filter match-schema="public" match-name="teachers"/>
+  <table-filter match-schema="public" match-name="tests"/>
+  <table-filter match-schema="public" match-name="themes"/>
+  <table-filter match-schema="public" match-name="type_education"/>
+  <table-filter match-schema="public" match-name="type_teacher"/>
+  <table-filter match-schema="public" match-name="type_user"/>
+  <table-filter match-schema="public" match-name="users"/>
+  <table-filter match-schema="public" match-name="year_of_education"/>
+   <table-filter match-schema="public" match-name="link_teacher_subject"/>
+</hibernate-reverse-engineering>
